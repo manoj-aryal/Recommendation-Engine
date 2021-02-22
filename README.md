@@ -1,2 +1,2 @@
 # Recommendation-Engine
-Exploring movie recommendation system with Fastai and Keras. 
+Exploring collaborative filtering movie recommendation with Fastai and Keras. 
