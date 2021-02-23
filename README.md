@@ -1,6 +1,6 @@
 # Recommendation-Engine
-Exploring collaborative filtering movie recommendation with Fastai and Keras. 
+- Explored collaborative filtering movie recommendation system with Fastai and Keras. 
 
-Also deployed model as a web-app at: https://similarmovies.herokuapp.com/
+Deployed content-based recommendation system as a web-app at: https://similarmovies.herokuapp.com/
 
 
