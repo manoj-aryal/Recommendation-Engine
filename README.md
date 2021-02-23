@@ -3,4 +3,6 @@
 
 - Deployed content-based recommendation system as a web-app at: https://similarmovies.herokuapp.com/
 
+**Web-App:**
 
+![Web-App](https://github.com/manoj-aryal/Recommendation-Engine/blob/master/app.png)
